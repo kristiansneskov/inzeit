@@ -1,0 +1,10 @@
+C:\Users\kristian\Projects\inzeit\inzeit\bin\inzeit.dll.config
+C:\Users\kristian\Projects\inzeit\inzeit\bin\inzeit.dll
+C:\Users\kristian\Projects\inzeit\inzeit\bin\inzeit.pdb
+C:\Users\kristian\Projects\inzeit\inzeit\bin\Nancy.dll
+C:\Users\kristian\Projects\inzeit\inzeit\bin\Nancy.Hosting.Aspnet.dll
+C:\Users\kristian\Projects\inzeit\inzeit\bin\Nancy.xml
+C:\Users\kristian\Projects\inzeit\inzeit\bin\Nancy.Hosting.Aspnet.xml
+C:\Users\kristian\Projects\inzeit\inzeit\obj\Debug\inzeit.csprojResolveAssemblyReference.cache
+C:\Users\kristian\Projects\inzeit\inzeit\obj\Debug\inzeit.dll
+C:\Users\kristian\Projects\inzeit\inzeit\obj\Debug\inzeit.pdb
