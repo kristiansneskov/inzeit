@@ -8,7 +8,7 @@ namespace inzeit.Modules
         {
             Get["/"] = parameters =>
             {
-                return View["index"];
+                return View["gert"];
             };
         }
     }
